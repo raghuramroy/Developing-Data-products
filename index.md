@@ -57,7 +57,7 @@ Source code are avaliable at https://github.com/raghuramroy/Developing-Data-prod
 
 This Shiny application displays a series of line graphs illustrating various financial scenarios for retirement, based on capital assets and expenditures, impact of projected inflation/interest and fluctuations thereof.
 
-Change various factors such as age, years until retirement, SS wages etc and the app will project the assests at the time of retirement
+Change various factors such as age, years until retirement, SS wages etc and the app will project the assests at the time of retirement 
 
 
 ![width](sample.png)
